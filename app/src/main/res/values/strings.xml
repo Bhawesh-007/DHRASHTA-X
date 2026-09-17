@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DHRASHTA-X</string>
+    <string name="monitor_channel_name">Threat monitoring</string>
+    <string name="alert_channel_name">Security alerts</string>
+    <string name="monitor_notification_title">DHRASHTA-X observer is active</string>
+</resources>
